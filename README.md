@@ -1,3 +1,6 @@
+
+✒️**READ BEFORE RUN**
+
 Fitness Booking API
 This is a simple Django REST API project for managing fitness classes and bookings.
 
@@ -19,8 +22,8 @@ Setup Instructions
 Follow these steps carefully to run the project locally:
 
 Clone the repository:
-git clone https://github.com/yourusername/fitness-booking.git
-cd fitness-booking
+git clone https://github.com/KIRUBAKARAN9840/omnify.git
+cd omnify
 
 Create and activate a virtual environment:
 
